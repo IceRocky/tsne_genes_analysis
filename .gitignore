@@ -1,3 +1,4 @@
+tsne_trials/*
 .ipynb_checkpoints/*
 *.pdf
 *.csv
