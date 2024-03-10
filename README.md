@@ -19,5 +19,5 @@ We used selected subset of genes for visualizing the high-dimensional structure 
 Hyperparameters of **t-SNE** were optimized in way that preserves both **macroscopic and microscopic structure** as much as possible.
 
 <p align="center">
-  <img src="pics/tsne_selected_tuned.png" alt="t-SNE Visualization">
+  <img src="pics/tsne_comparison.png" alt="t-SNE Visualization">
 </p>
