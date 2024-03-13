@@ -1,4 +1,4 @@
-# Genes expression analysis with Unsupervised Learning
+# t-SNE and Logistic Regression for Genes expression analysis
 This is the final project for **DTSA5510**: Unsupervised ML class in CU Boulder.
 
 We will work with dataset **GSE45827** on breast cancer gene expression from *CuMiDa* that contains 151 samples of genes expressions using microarray technology.
