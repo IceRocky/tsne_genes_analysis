@@ -35,3 +35,8 @@ Hyperparameters of **t-SNE** were optimized in way that preserves both **macrosc
 
 ## Affects of different genes on cancers
 ![selection](pics/result.png)
+
+## Conclusion
+This project demonstrates a common workflow to work with extremely **high-dimensional** data such as genes expressions and selecting the most important and informative features from the massive set of potential candidates. Such datasets require additional steps like *feature selection*, *dimensionality reduction* and *visualizations* of high-dimensional data. 
+The key importance of visualization is to show **global structure and relations in high dimensional data*. However, in some cases common methods like **PCA** do not preserve much information about structure
+because there is no explicit linear relation among features. Our solution to this challenge was to use **Feature Selection** using statistical tests that select most discriminative features +  tuned **t-SNE** algorithm for projection of complex data. These steps finally led us to selected **240** most important genes out of **55 000** and provided a clear picture of **spatial structure** of our data.
